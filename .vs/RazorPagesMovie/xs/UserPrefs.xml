@@ -1,14 +1,45 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{66D9AD97-E7BE-4C23-97B1-F022F41F4609}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Models/Movie.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Migrations/20230701152159_New_DataAnnotations.Designer.cs">
     <Files>
-      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="16" Column="2" />
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="8" Column="6" />
+      <File FileName="RazorPagesMovie/Data/sudo.cs" Line="17" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/20230628230555_InitialCreate.cs" Line="24" Column="20" />
+      <File FileName="RazorPagesMovie/Migrations/20230628230555_InitialCreate.Designer.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" Line="60" Column="18" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="46" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Privacy.cshtml.cs" Line="11" Column="28" />
+      <File FileName="RazorPagesMovie/Pages/Error.cshtml.cs" Line="13" Column="26" />
+      <File FileName="RazorPagesMovie/Pages/Index.cshtml.cs" Line="19" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Delete.cshtml" Line="50" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" Line="21" Column="7" />
+      <File FileName="RazorPagesMovie/Pages/Shared/_Layout.cshtml" Line="15" Column="62" />
+      <File FileName="RazorPagesMovie/Pages/_ViewStart.cshtml" Line="5" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="47" Column="1" />
+      <File FileName="RazorPagesMovie/Startup.cs" Line="47" Column="14" />
+      <File FileName="RazorPagesMovie/appsettings.json" Line="13" Column="2" />
+      <File FileName="RazorPagesMovie/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="22" Column="18" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="14" Column="52" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Delete.cshtml.cs" Line="26" Column="17" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Details.cshtml" Line="39" Column="51" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml" Line="38" Column="39" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Details.cshtml.cs" Line="17" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" Line="22" Column="10" />
+      <File FileName="RazorPagesMovie/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/20230701152159_New_DataAnnotations.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/20230701152159_New_DataAnnotations.Designer.cs" Line="37" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RazorPagesMovie" expanded="True" selected="True" />
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
